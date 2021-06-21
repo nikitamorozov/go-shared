@@ -1,4 +1,4 @@
-module github.com/aquix/go-shared
+module github.com/nikitamorozov/go-shared
 
 go 1.16
 
